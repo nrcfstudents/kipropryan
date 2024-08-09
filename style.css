@@ -1,0 +1,10 @@
+.nav-bar p{
+	font size; 30px
+	color:blue;
+	}  
+
+	.nav-bar{
+		display: flex;
+		flex: justify-content;space between
+
+.nav-bar p{
